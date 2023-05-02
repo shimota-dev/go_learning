@@ -4,7 +4,7 @@ import (
 	"myapp/packageone"
 )
 
-var myVar = "this is my var"
+var myVar = "this is my var in the package level"
 
 func main() {
 
